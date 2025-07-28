@@ -28,38 +28,38 @@ The goal is to understand Patient behavior, analyze health, average wait time, a
 
 📁 Patient Information
 
-*Patient ID
+* Patient ID
 
-*Patient Gender
+* Patient Gender
 
-*Patient Age 
+* Patient Age 
 
-*Patient Sat_score
+* Patient Sat_score
 
-*Patient First Initial
+* Patient First Initial
 
-*Patient Last Name
+* Patient Last Name
 
-*Patient Race
+* Patient Race
 
-*Patient Admin Flag
+* Patient Admin Flag
 
-*Patient Wait Time
+* Patient Wait Time
 
-*Department Referral
+* Department Referral
 
-*Date
+* Date
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 🧹 Data Cleaning & Transformation
 
-*Removed duplicates and handled null value.
+* Removed duplicates and handled null value.
 
-*Formatted dates.
+* Formatted dates.
 
-*Merged Patient First Initial and  Patient Last Name as Full Name.
+* Merged Patient First Initial and  Patient Last Name as Full Name.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -72,53 +72,53 @@ Defined calculated tables and DAX measures.
 
 📐 Key DAX Measures
 
-*Total Patients
+* Total Patients
 
-*% Administrative Schedule 
+* % Administrative Schedule 
 
-*% Non- Administrative Schedule 
+* % Non- Administrative Schedule 
 
-*Average Satisfaction Score 
+* Average Satisfaction Score 
 
-*% No Rating 
+* % No Rating 
 
-*Age Buckets 
+* Age Buckets 
 
-*Age Group
+* Age Group
 
-*CF Max Point (Month) 
+* CF Max Point (Month) 
 
-*CF Max Point (Year) 
+* CF Max Point (Year) 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Dashboard Features
 
-*Total Patient Visists
+* Total Patient Visists
 
-*Average Satisfaction
+* Average Satisfaction
 
-*Average Wait Time
+* Average Wait Time
 
-*Total Patient by Age Group
+* Total Patient by Age Group
 
-*Total Patient Visits by Year
+* Total Patient Visits by Year
 
-*Slicers for Moment
+* Slicers for Moment
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📈 Key Insights
 
-*Total Patient Visit is 9526.
+* Total Patient Visit is 9526.
 
-*Average Satisfaction is 5.47
+* Average Satisfaction is 5.47
 
-*Average Wait Time is 35.26
+* Average Wait Time is 35.26
 
-*Max Patients by Age Group is from Adult Category
+* Max Patients by Age Group is from Adult Category
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
