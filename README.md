@@ -44,7 +44,7 @@ The goal is to understand Patient behavior, analyze health, average wait time, a
 
 * patient_race : Patient's racial/ethnic identity	
 
-* patient_admin_flag : Whether patient required special admin handling(Patient requires additional admin work (e.g., insurance verification, complex billing, medical records requests)
+* patient_admin_flag : Whether the patient is a staff of the hospital or not 
 
 * patient_waittime : Wait time in minutes before being seen	
 
