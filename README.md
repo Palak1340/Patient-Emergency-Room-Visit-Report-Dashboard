@@ -28,27 +28,27 @@ The goal is to understand Patient behavior, analyze health, average wait time, a
 
 📁 Patient Information
 
-* Patient ID
+* date : Date and time of patient visit	
 
-* Patient Gender
+* patient_id : Unique patient identifier (SSN-like)	
 
-* Patient Age 
+* patient_gender : Patient's gender	
 
-* Patient Sat_score
+* patient_age : Patient's age in years	
 
-* Patient First Initial
+* patient_sat_score : Patient satisfaction score (1-10)	
 
-* Patient Last Name
+* patient_first_inital : Patient's first initial	
 
-* Patient Race
+* patient_last_name : Patient's last name	
 
-* Patient Admin Flag
+* patient_race : Patient's racial/ethnic identity	
 
-* Patient Wait Time
+* patient_admin_flag : Whether patient required special admin handling(Patient requires additional admin work (e.g., insurance verification, complex billing, medical records requests)
 
-* Department Referral
+* patient_waittime : Wait time in minutes before being seen	
 
-* Date
+* department_referral : Department patient was referred to	
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
